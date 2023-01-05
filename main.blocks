@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="nGV`f?G@@,_Vnm-D!M|q" x="0" y="0"><statement name="HANDLER"><block type="led_set_display_mode" id="oXAsiw6%Mf%{U_}:6~AT"><field name="mode">DisplayMode.Greyscale</field></block></statement></block><block type="device_forever" id="Rw^rS$T~7r!k~(HZ3ZXQ" x="274" y="-4"></block></xml>
